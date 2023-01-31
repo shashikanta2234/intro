@@ -1,0 +1,31 @@
+body{
+  text-align: center;
+}
+.main{
+  background-image: url(abc.png);
+  height: 80vh;
+  width: 100%;
+  border-radius: 20px;
+}
+#hello{
+  color: white;
+}
+.cricket{
+  border-radius: 50%;
+  width:100px;
+  height:100px;
+}
+.abc{
+  width: 80%;
+  height: 80vh;
+}
+
+
+  .web{
+    border-radius: 50%;
+    width:100px;
+    height:100px;
+    color: #227C70;
+
+
+  }
